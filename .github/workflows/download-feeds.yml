@@ -1,0 +1,38 @@
+# A GitHub Action to download RSS feeds from various sources
+# Runs each night, used to populate my website's activity feed
+
+name: 📥 Download RSS Feeds
+
+on:
+  workflow_dispatch: # Manual dispatch
+  schedule:
+    - cron: '0 23 * * *' # At 23:00 each day
+    
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3.3.0
+        
+      - name: Get Date 📅
+        id: date
+        run: echo "::set-output name=date::$(date +'%d-%b-%Y')"
+                
+      - name: Download Feeds 📬
+        run: |
+          fetch_feed() { curl "${1}" --fail --connect-timeout 10 --max-time 15 --retry 3 --retry-delay 10 --retry-max-time 90 -o "${2}"; }
+          fetch_feed "https://github.com/khulnasoft.atom" "./github.atom"
+
+      - name: Commit ✒️
+        run: |
+          git config --local user.email "info@khulnasoft.com"
+          git config --local user.name "khulnasoft-bot"
+          git add .
+          git commit -m "🗞️ Downloads RSS Feed - Updated on ${{ steps.date.outputs.date }}"
+          
+      - name: Push ⤴️
+        uses: ad-m/github-push-action@master
+        with:
+          github_token:  ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
