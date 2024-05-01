@@ -1,0 +1,16 @@
+# `cacheUrl`: A URL that contains previous build output. (required)
+cacheUrl: https://khulnasoft-lab.github.io/feeds/cache.json
+
+# `sources`: An array of RSS subscriptions. (required)
+sources:
+  # `href`: A URL that returns content in RSS 1.0, RSS 2.0, or Atom format. (required for each source)
+  - href: https://raw.githubusercontent.com/khulnasoft-lab/feeds/main/github.atom
+
+# `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
+siteTitle: "khulnasoft-lab::feed"
+
+# `timezone`: Specify your local timezone so server can group content by weekday
+timezone: 'Europe/London'
+
+# `cacheMaxDays` Max number of days to keep the feed content in cache
+cacheMaxDays: 90
