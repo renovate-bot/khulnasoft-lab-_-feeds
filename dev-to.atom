@@ -210,7 +210,7 @@
 A projects value increases massively if it's documented. Without docs, potential users, clients or developers won't know what it does, how to use it, how to build on top of it, or how to contribute.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;I might be the only one, but I personally love writing docs. &lt;a href="https://github.com/Lissy93?tab=repositories"&gt;All my projects&lt;/a&gt; include thorough usage, developing and contributing documentation. And this has contributed to their success and adoption. I feel like there's no point spending hours building something awesome, if you don't put a tiny bit of time showing people how they can use it. &lt;/p&gt;
+&lt;p&gt;I might be the only one, but I personally love writing docs. &lt;a href="https://github.com/khulnasoft-lab?tab=repositories"&gt;All my projects&lt;/a&gt; include thorough usage, developing and contributing documentation. And this has contributed to their success and adoption. I feel like there's no point spending hours building something awesome, if you don't put a tiny bit of time showing people how they can use it. &lt;/p&gt;
 &lt;/blockquote&gt;
 
 
@@ -960,7 +960,7 @@ Some examples include:&lt;/p&gt;
 &lt;small&gt;If you like this kind of stuff&lt;/small&gt;,&lt;br&gt;&lt;small&gt;consider following for more :)&lt;br&gt;Thank you for reading, &lt;a href="https://aliciasykes.com"&gt;Alicia&lt;/a&gt; 🥰&lt;/small&gt;
 &lt;/th&gt;
 &lt;th&gt;
-&lt;a href="https://github.com/Lissy93"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-Lissy93-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow Lissy93 on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://mastodon.social/@lissy93"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s3tJd6hk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy93-6364ff%3Fstyle%3Dflat%26logo%3Dmastodon%26logoColor%3Dwhite" alt="Mastodon" width="81" height="20"&gt;&lt;/a&gt; &lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jrhw1uo6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3Dx%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on X" width="103" height="20"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/khulnasoft-lab"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-khulnasoft-lab-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow khulnasoft-lab on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://mastodon.social/@khulnasoft-lab"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s3tJd6hk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40khulnasoft-lab-6364ff%3Fstyle%3Dflat%26logo%3Dmastodon%26logoColor%3Dwhite" alt="Mastodon" width="81" height="20"&gt;&lt;/a&gt; &lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jrhw1uo6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3Dx%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on X" width="103" height="20"&gt;&lt;/a&gt;
 &lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -978,8 +978,8 @@ Some examples include:&lt;/p&gt;
       <title>SvelteKit 1.0 - Building a personal blog, that shows your DEV posts 🦄</title>
       <dc:creator>Alicia Sykes</dc:creator>
       <pubDate>Mon, 20 Feb 2023 21:58:07 +0000</pubDate>
-      <link>https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f</link>
-      <guid>https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f</guid>
+      <link>https://dev.to/khulnasoft-lab/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f</link>
+      <guid>https://dev.to/khulnasoft-lab/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The aim of this post is to provide a whistle-stop tour of the latest version of SvelteKit. We're going to build a developer portfolio and blog website, that fetches data from your RSS feed, as well as the GitHub API.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1051,16 +1051,16 @@ The Final Project
 
 &lt;p&gt;Here's a live demo: &lt;strong&gt;&lt;a href="https://devolio.netlify.app/blog"&gt;devolio.netlify.app/blog&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;And here's the full source: &lt;strong&gt;&lt;a href="https://github.com/Lissy93/devolio"&gt;@Lissy93/Devolio&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;And here's the full source: &lt;strong&gt;&lt;a href="https://github.com/khulnasoft-lab/devolio"&gt;@khulnasoft-lab/Devolio&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 
 &lt;div class="ltag-github-readme-tag"&gt;
   &lt;div class="readme-overview"&gt;
     &lt;h2&gt;
       &lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--A9-wwsHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="GitHub logo"&gt;
-      &lt;a href="https://github.com/Lissy93"&gt;
-        Lissy93
-      &lt;/a&gt; / &lt;a href="https://github.com/Lissy93/my-website"&gt;
+      &lt;a href="https://github.com/khulnasoft-lab"&gt;
+        khulnasoft-lab
+      &lt;/a&gt; / &lt;a href="https://github.com/khulnasoft-lab/my-website"&gt;
         my-website
       &lt;/a&gt;
     &lt;/h2&gt;
@@ -1080,7 +1080,7 @@ The Final Project
 
 &lt;p&gt;
   &lt;a href="https://devolio.netlify.app" rel="nofollow"&gt;
-    &lt;img width="700" src="https://res.cloudinary.com/practicaldev/image/fetch/s--NOsxJ9Yv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://raw.githubusercontent.com/Lissy93/my-website/master/static/screenshot.png"&gt;
+    &lt;img width="700" src="https://res.cloudinary.com/practicaldev/image/fetch/s--NOsxJ9Yv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://raw.githubusercontent.com/khulnasoft-lab/my-website/master/static/screenshot.png"&gt;
   &lt;/a&gt;
 &lt;/p&gt;
 
@@ -1093,27 +1093,27 @@ Data is fetched from external sources (GitHub, RSS, social platforms...), so no 
 Crafted with SvelteKit + TypeScript- prioritising SEO, performance, accessibility, and compatibility.&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/Lissy93/my-website#intro"&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/khulnasoft-lab/my-website#intro"&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href="https://github.com/Lissy93/my-website#developing"&gt;&lt;strong&gt;Usage Guides&lt;/strong&gt;&lt;/a&gt;
+&lt;a href="https://github.com/khulnasoft-lab/my-website#developing"&gt;&lt;strong&gt;Usage Guides&lt;/strong&gt;&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/Lissy93/my-website#developing"&gt;Developing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Lissy93/my-website#deploying"&gt;Deploying&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Lissy93/my-website#configuring"&gt;Configuring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/khulnasoft-lab/my-website#developing"&gt;Developing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/khulnasoft-lab/my-website#deploying"&gt;Deploying&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/khulnasoft-lab/my-website#configuring"&gt;Configuring&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;a href="https://github.com/Lissy93/my-website#community"&gt;&lt;strong&gt;Community&lt;/strong&gt;&lt;/a&gt;
+&lt;a href="https://github.com/khulnasoft-lab/my-website#community"&gt;&lt;strong&gt;Community&lt;/strong&gt;&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/Lissy93/my-website#report-an-issue"&gt;Report an Issue&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Lissy93/my-website#contributing"&gt;Contributing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Lissy93/my-website#support"&gt;Support&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Lissy93/my-website#credits"&gt;Credits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/khulnasoft-lab/my-website#report-an-issue"&gt;Report an Issue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/khulnasoft-lab/my-website#contributing"&gt;Contributing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/khulnasoft-lab/my-website#support"&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/khulnasoft-lab/my-website#credits"&gt;Credits&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Lissy93/my-website#license"&gt;&lt;strong&gt;License&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/khulnasoft-lab/my-website#license"&gt;&lt;strong&gt;License&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;A tutorial, for how to build something similar is available on &lt;strong&gt;&lt;a href="https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f" rel="nofollow"&gt;DEV.to&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A tutorial, for how to build something similar is available on &lt;strong&gt;&lt;a href="https://dev.to/khulnasoft-lab/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f" rel="nofollow"&gt;DEV.to&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;sup&gt;A mirror of this repository is available at &lt;strong&gt;&lt;a href="https://codeberg.org/alicia/devolio" rel="nofollow"&gt;codeberg.org/alicia/devolio&lt;/a&gt;&lt;/strong&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h3&gt;
 Pages&lt;/h3&gt;
@@ -1123,7 +1123,7 @@ Pages&lt;/h3&gt;
 &lt;p&gt;Each project can include: name, description, thumbnail…&lt;/p&gt;
 &lt;/div&gt;
   &lt;/div&gt;
-  &lt;div class="gh-btn-container"&gt;&lt;a class="gh-btn" href="https://github.com/Lissy93/my-website"&gt;View on GitHub&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="gh-btn-container"&gt;&lt;a class="gh-btn" href="https://github.com/khulnasoft-lab/my-website"&gt;View on GitHub&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -1679,9 +1679,9 @@ Blog
 
 &lt;p&gt;(don't forget to npm i any adapters before using!)&lt;/p&gt;
 
-&lt;p&gt;Finally, let's talk about Docker. As it's a popular deployment method, here's a multi-arch &lt;strong&gt;&lt;a href="https://github.com/Lissy93/devolio/blob/master/Dockerfile"&gt;&lt;code&gt;Dockerfile&lt;/code&gt;&lt;/a&gt;&lt;/strong&gt; I've written, with a build stage, deploy stage, and some healthchecks.&lt;/p&gt;
+&lt;p&gt;Finally, let's talk about Docker. As it's a popular deployment method, here's a multi-arch &lt;strong&gt;&lt;a href="https://github.com/khulnasoft-lab/devolio/blob/master/Dockerfile"&gt;&lt;code&gt;Dockerfile&lt;/code&gt;&lt;/a&gt;&lt;/strong&gt; I've written, with a build stage, deploy stage, and some healthchecks.&lt;/p&gt;
 
-&lt;p&gt;It's also published to DockerHub (under &lt;a href="https://hub.docker.com/r/lissy93/devolio"&gt;lissy93/devolio&lt;/a&gt;), so you should be able to use it with &lt;code&gt;docker run -p 3000:80 lissy93/devolio&lt;/code&gt; - or use the &lt;a href="https://github.com/Lissy93/devolio/blob/master/docker-compose.yml"&gt;&lt;code&gt;docker-compose.yml&lt;/code&gt;&lt;/a&gt; as an template for your own container.&lt;/p&gt;
+&lt;p&gt;It's also published to DockerHub (under &lt;a href="https://hub.docker.com/r/khulnasoft-lab/devolio"&gt;khulnasoft-lab/devolio&lt;/a&gt;), so you should be able to use it with &lt;code&gt;docker run -p 3000:80 khulnasoft-lab/devolio&lt;/code&gt; - or use the &lt;a href="https://github.com/khulnasoft-lab/devolio/blob/master/docker-compose.yml"&gt;&lt;code&gt;docker-compose.yml&lt;/code&gt;&lt;/a&gt; as an template for your own container.&lt;/p&gt;
 
 
 
@@ -1692,15 +1692,15 @@ Blog
   The Project
 &lt;/h2&gt;
 
-&lt;p&gt;I've had to skip over a few details for the sake of brevity, but all &lt;a href="https://github.com/Lissy93/devolio"&gt;the code is available on GitHub&lt;/a&gt;, so that should clear up anything that doesn't yet make sense - if it's still not, feel free to ask below :)&lt;/p&gt;
+&lt;p&gt;I've had to skip over a few details for the sake of brevity, but all &lt;a href="https://github.com/khulnasoft-lab/devolio"&gt;the code is available on GitHub&lt;/a&gt;, so that should clear up anything that doesn't yet make sense - if it's still not, feel free to ask below :)&lt;/p&gt;
 
 &lt;p&gt;There's a few extra features that I also added:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Extracted all data into a config file, for easy usage, and made it stylable with custom colors and themes&lt;/li&gt;
-&lt;li&gt;I used a store to keep track of posts (in &lt;a href="https://github.com/Lissy93/devolio/blob/master/src/store/BlogStore.ts"&gt;BlogStore.ts&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;I used a store to keep track of posts (in &lt;a href="https://github.com/khulnasoft-lab/devolio/blob/master/src/store/BlogStore.ts"&gt;BlogStore.ts&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Added functionality for loading and combining multiple RSS feeds, as well as sorting and filtering results&lt;/li&gt;
-&lt;li&gt;Added internationalization functionality (in &lt;a href="https://github.com/Lissy93/devolio/blob/master/src/store/Language.ts"&gt;Language.ts&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Added internationalization functionality (in &lt;a href="https://github.com/khulnasoft-lab/devolio/blob/master/src/store/Language.ts"&gt;Language.ts&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;I built a page to showcase your projects, with data fetched from your GitHub, via their API&lt;/li&gt;
 &lt;li&gt;And a contact page, with an email form, social media links and GPG keys&lt;/li&gt;
 &lt;li&gt;Added more adapters for deploying to various cloud services, and wrote a Dockerfile&lt;/li&gt;
@@ -1734,7 +1734,7 @@ Blog
 
 &lt;p&gt;I do plan on expanding the project, add some features and make it into an easily configurable, themeable developer portfolio website, that anyone can easily use. If you'd like to see the updates, drop the repo a star on GitHub :)&lt;/p&gt;
 
-&lt;p&gt;And if you'd like to contribute to the source, it's &lt;a href="https://github.com/Lissy93/devolio"&gt;here&lt;/a&gt; (&lt;code&gt;MIT&lt;/code&gt;) on GitHub, and I'll drop you a mention in the credits if you're able to submit a PR!&lt;/p&gt;
+&lt;p&gt;And if you'd like to contribute to the source, it's &lt;a href="https://github.com/khulnasoft-lab/devolio"&gt;here&lt;/a&gt; (&lt;code&gt;MIT&lt;/code&gt;) on GitHub, and I'll drop you a mention in the credits if you're able to submit a PR!&lt;/p&gt;
 
 
 
@@ -1748,7 +1748,7 @@ Blog
 &lt;small&gt;If you like this kind of stuff&lt;/small&gt;,&lt;br&gt;&lt;small&gt;consider following for more :)&lt;/small&gt;
 &lt;/th&gt;
 &lt;th&gt;
-&lt;a href="https://github.com/Lissy93"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-Lissy93-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow Lissy93 on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/khulnasoft-lab"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-khulnasoft-lab-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow khulnasoft-lab on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
 &lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -1766,8 +1766,8 @@ Blog
       <title>CLI tools you won't be able to live without 🔧</title>
       <dc:creator>Alicia Sykes</dc:creator>
       <pubDate>Thu, 19 Jan 2023 01:30:42 +0000</pubDate>
-      <link>https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6</link>
-      <guid>https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6</guid>
+      <link>https://dev.to/khulnasoft-lab/cli-tools-you-cant-live-without-57f6</link>
+      <guid>https://dev.to/khulnasoft-lab/cli-tools-you-cant-live-without-57f6</guid>
       <description>&lt;p&gt;As developers, we spend a lot of our time in the terminal. There's a lot of helpful CLI tools, which can make your life in the command line easier, faster and generally more fun.&lt;/p&gt;
 
 &lt;p&gt;This post outlines my top 50 must-have CLI tools, which I've come to rely on. If there's anything I'm missing - do let me know in the comments :)&lt;/p&gt;
@@ -3208,7 +3208,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;just
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;transfer&lt;/code&gt; makes uploading and sharing files really easy, directly from the command line. It's free, supports encryption, gives you a unique URL, and can also be self-hosted.&lt;br&gt;
-I've written a Bash helper function to make usage a bit easier, you can &lt;a href="https://github.com/Lissy93/dotfiles/blob/master/utils/transfer.sh"&gt;find it here&lt;/a&gt; or try it out by running &lt;code&gt;bash &amp;lt;(curl -L -s https://alicia.url.lol/transfer)&lt;/code&gt;&lt;/p&gt;
+I've written a Bash helper function to make usage a bit easier, you can &lt;a href="https://github.com/khulnasoft-lab/dotfiles/blob/master/utils/transfer.sh"&gt;find it here&lt;/a&gt; or try it out by running &lt;code&gt;bash &amp;lt;(curl -L -s https://alicia.url.lol/transfer)&lt;/code&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--gqFpUb3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i.ibb.co/cCqDb1k/transfer-sh.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--gqFpUb3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i.ibb.co/cCqDb1k/transfer-sh.png" alt="transfer-sh-example-usage" width="800" height="427"&gt;&lt;/a&gt;&lt;/p&gt;
@@ -3324,7 +3324,7 @@ I've written a Bash helper function to make usage a bit easier, you can &lt;a hr
 
 &lt;p&gt;&lt;a href="https://github.com/dylanaraps/neofetch"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2Zc_wHSv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/github/stars/dylanaraps/neofetch%3Fcolor%3D232323%26label%3Dneofetch%26logo%3Dgithub%26labelColor%3D232323" alt="View neofetch on GitHub" width="105" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/dylanaraps"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--a9SKgXvX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/dylanaraps-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author dylanaraps" width="95" height="20"&gt;&lt;/a&gt; &lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--yqFTpWpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/static/v1%3Flabel%3D%26message%3DBash%26color%3Dgreen%26logo%3Dgnubash%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yqFTpWpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/static/v1%3Flabel%3D%26message%3DBash%26color%3Dgreen%26logo%3Dgnubash%26logoColor%3DFFFFFF" alt="Written in Bash" width="55" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;As an example, I'm using &lt;code&gt;cowsay&lt;/code&gt;, &lt;code&gt;figlet&lt;/code&gt;, &lt;code&gt;lolcat&lt;/code&gt; and &lt;code&gt;neofetch&lt;/code&gt; to create a custom time-based MOTD shown to the user when they first log in. It greets them by their name, shows server info and time, date, weather and IP. &lt;a href="https://github.com/Lissy93/dotfiles/blob/master/utils/welcome-banner.sh"&gt;Here's the source code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As an example, I'm using &lt;code&gt;cowsay&lt;/code&gt;, &lt;code&gt;figlet&lt;/code&gt;, &lt;code&gt;lolcat&lt;/code&gt; and &lt;code&gt;neofetch&lt;/code&gt; to create a custom time-based MOTD shown to the user when they first log in. It greets them by their name, shows server info and time, date, weather and IP. &lt;a href="https://github.com/khulnasoft-lab/dotfiles/blob/master/utils/welcome-banner.sh"&gt;Here's the source code&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--j9Qp8D3j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i.ibb.co/cTg0jyn/Screenshot-from-2023-01-18-22-59-28.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--j9Qp8D3j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i.ibb.co/cTg0jyn/Screenshot-from-2023-01-18-22-59-28.png" alt="welcome" width="628" height="537"&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -3340,13 +3340,13 @@ I've written a Bash helper function to make usage a bit easier, you can &lt;a hr
   Installations and Management
 &lt;/h2&gt;
 
-&lt;p&gt;Most of us have a core set of CLI apps and utils that we rely upon. Setting up a new machine, and individually installing each program would get tiresome very quickly. So the task of installing and updating your terminal apps is the perfect candidate for automation. &lt;a href="https://github.com/Lissy93/dotfiles/tree/master/scripts/installs"&gt;Here&lt;/a&gt; are some example scripts I've written, which can be easily dropped into your dotfiles or just run independently to ensure you're never missing an app. &lt;/p&gt;
+&lt;p&gt;Most of us have a core set of CLI apps and utils that we rely upon. Setting up a new machine, and individually installing each program would get tiresome very quickly. So the task of installing and updating your terminal apps is the perfect candidate for automation. &lt;a href="https://github.com/khulnasoft-lab/dotfiles/tree/master/scripts/installs"&gt;Here&lt;/a&gt; are some example scripts I've written, which can be easily dropped into your dotfiles or just run independently to ensure you're never missing an app. &lt;/p&gt;
 
-&lt;p&gt;For MacOS users, the easiest method is using &lt;a href="https://brew.sh/"&gt;Homebrew&lt;/a&gt;. Just create a Brewfile (with &lt;code&gt;touch ~/.Brewfile&lt;/code&gt;), then list each of your apps, and run &lt;code&gt;brew bundle&lt;/code&gt;. You can keep your package list backed up, by putting it in a Git repo. Here's an example one, to get you started: &lt;a href="https://github.com/Lissy93/Brewfile"&gt;https://github.com/Lissy93/Brewfile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For MacOS users, the easiest method is using &lt;a href="https://brew.sh/"&gt;Homebrew&lt;/a&gt;. Just create a Brewfile (with &lt;code&gt;touch ~/.Brewfile&lt;/code&gt;), then list each of your apps, and run &lt;code&gt;brew bundle&lt;/code&gt;. You can keep your package list backed up, by putting it in a Git repo. Here's an example one, to get you started: &lt;a href="https://github.com/khulnasoft-lab/Brewfile"&gt;https://github.com/khulnasoft-lab/Brewfile&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;On Linux, you usually want to use the native package manager (e.g. &lt;code&gt;pacman&lt;/code&gt;, &lt;code&gt;apt&lt;/code&gt;). As an example, &lt;a href="https://github.com/Lissy93/dotfiles/blob/master/scripts/installs/arch-pacman.sh"&gt;here's a script&lt;/a&gt; to install the above apps on Arch Linux systems&lt;/p&gt;
+&lt;p&gt;On Linux, you usually want to use the native package manager (e.g. &lt;code&gt;pacman&lt;/code&gt;, &lt;code&gt;apt&lt;/code&gt;). As an example, &lt;a href="https://github.com/khulnasoft-lab/dotfiles/blob/master/scripts/installs/arch-pacman.sh"&gt;here's a script&lt;/a&gt; to install the above apps on Arch Linux systems&lt;/p&gt;
 
-&lt;p&gt;Desktop apps on Linux can be managed in a similar way, via Flatpak. Again, &lt;a href="https://github.com/Lissy93/dotfiles/blob/master/scripts/installs/flatpak.sh"&gt;here's an example script&lt;/a&gt; :)&lt;/p&gt;
+&lt;p&gt;Desktop apps on Linux can be managed in a similar way, via Flatpak. Again, &lt;a href="https://github.com/khulnasoft-lab/dotfiles/blob/master/scripts/installs/flatpak.sh"&gt;here's an example script&lt;/a&gt; :)&lt;/p&gt;
 
 
 
@@ -3416,9 +3416,9 @@ I've written a Bash helper function to make usage a bit easier, you can &lt;a hr
   
     &lt;h2&gt;
       &lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--A9-wwsHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--A9-wwsHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="GitHub logo" width="24" height="24"&gt;&lt;/a&gt;
-      &lt;a href="https://github.com/Lissy93"&gt;
-        Lissy93
-      &lt;/a&gt; / &lt;a href="https://github.com/Lissy93/repo-badge-maker"&gt;
+      &lt;a href="https://github.com/khulnasoft-lab"&gt;
+        khulnasoft-lab
+      &lt;/a&gt; / &lt;a href="https://github.com/khulnasoft-lab/repo-badge-maker"&gt;
         repo-badge-maker
       &lt;/a&gt;
     &lt;/h2&gt;
@@ -3446,7 +3446,7 @@ I've written a Bash helper function to make usage a bit easier, you can &lt;a hr
 &lt;h2&gt;
 About&lt;/h2&gt;
 
-&lt;p&gt;I made this to quickly generate the project links, for this post: &lt;a href="https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6" rel="nofollow"&gt;CLI tools you won't be able to live without 🔧 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I made this to quickly generate the project links, for this post: &lt;a href="https://dev.to/khulnasoft-lab/cli-tools-you-cant-live-without-57f6" rel="nofollow"&gt;CLI tools you won't be able to live without 🔧 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Just a simple script to quickly generate embedable markdown badges to show repository info.&lt;br&gt;
 Data is fetched from the GitHub API, and badges are served up using the &lt;a href="https://shields.io/" rel="nofollow"&gt;Shields.io&lt;/a&gt; API.&lt;br&gt;
@@ -3455,12 +3455,12 @@ Paste in the URL to a repo, hit 'Generate', and results will be copied to your c
 &lt;h2&gt;
 Deployment&lt;/h2&gt;
 &lt;p&gt;It's just a static HTML page, so serve it with any web server, CDN or static host.&lt;br&gt;
-There's a demo hosted on GH Pages, at: &lt;a href="https://lissy93.github.io/repo-badge-maker/" rel="nofollow"&gt;lissy93.github.io/repo-badge-maker&lt;/a&gt;&lt;/p&gt;
+There's a demo hosted on GH Pages, at: &lt;a href="https://khulnasoft-lab.github.io/repo-badge-maker/" rel="nofollow"&gt;khulnasoft-lab.github.io/repo-badge-maker&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;
 Report an Issue&lt;/h2&gt;
-&lt;p&gt;Found something that's not working? &lt;a href="https://github.com/Lissy93/repo-badge-maker/issues/new/choose"&gt;Open an issue&lt;/a&gt;, and describe the problem, steps to reproduce alond with…&lt;/p&gt;
+&lt;p&gt;Found something that's not working? &lt;a href="https://github.com/khulnasoft-lab/repo-badge-maker/issues/new/choose"&gt;Open an issue&lt;/a&gt;, and describe the problem, steps to reproduce alond with…&lt;/p&gt;
   
-  &lt;a href="https://github.com/Lissy93/repo-badge-maker"&gt;View on GitHub&lt;/a&gt;
+  &lt;a href="https://github.com/khulnasoft-lab/repo-badge-maker"&gt;View on GitHub&lt;/a&gt;
 
 
 
@@ -3468,7 +3468,7 @@ Report an Issue&lt;/h2&gt;
 
 &lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://github.com/Lissy93/repo-badge-maker"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zmaXK6Tz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/github/stars/Lissy93/repo-badge-maker%3Fcolor%3D232323%26label%3Drepo-badge-maker%26logo%3Dgithub%26labelColor%3D232323" alt="View repo-badge-maker on GitHub" width="147" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/Lissy93"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uzmY4EQc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/Lissy93-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author Lissy93" width="75" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/khulnasoft-lab/repo-badge-maker"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zmaXK6Tz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/github/stars/khulnasoft-lab/repo-badge-maker%3Fcolor%3D232323%26label%3Drepo-badge-maker%26logo%3Dgithub%26labelColor%3D232323" alt="View repo-badge-maker on GitHub" width="147" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/khulnasoft-lab"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uzmY4EQc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/khulnasoft-lab-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author khulnasoft-lab" width="75" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4&gt;
   
@@ -3501,7 +3501,7 @@ Report an Issue&lt;/h2&gt;
 &lt;small&gt;If you like this kind of stuff&lt;/small&gt;,&lt;br&gt;&lt;small&gt;consider following for more :)&lt;/small&gt;
 &lt;/th&gt;
 &lt;th&gt;
-&lt;a href="https://github.com/Lissy93"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-Lissy93-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow Lissy93 on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/khulnasoft-lab"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-khulnasoft-lab-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow khulnasoft-lab on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
 &lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -3519,8 +3519,8 @@ Report an Issue&lt;/h2&gt;
       <title>20 Git Commands you (probably) didn't know about 🧙‍♂️</title>
       <dc:creator>Alicia Sykes</dc:creator>
       <pubDate>Sun, 18 Dec 2022 13:32:40 +0000</pubDate>
-      <link>https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o</link>
-      <guid>https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o</guid>
+      <link>https://dev.to/khulnasoft-lab/20-git-commands-you-probably-didnt-know-about-4j4o</link>
+      <guid>https://dev.to/khulnasoft-lab/20-git-commands-you-probably-didnt-know-about-4j4o</guid>
       <description>&lt;p&gt;If you've ever browsed the &lt;a href="https://git-scm.com/docs"&gt;git manual&lt;/a&gt; (or run &lt;code&gt;man git&lt;/code&gt;), then you'll have noticed there's a whole lot more to git than what most of us use on a daily basis. A lot of these commands are incredibly powerful and can make your life a lot easier (others are a bit niche, but still good to know).&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -4091,7 +4091,7 @@ You'll then be able to checkout a specific tag, with &lt;code&gt;git checkout 
 &lt;small&gt;If you like this kind of stuff&lt;/small&gt;,&lt;br&gt;&lt;small&gt;consider following for more :)&lt;/small&gt;
 &lt;/th&gt;
 &lt;th&gt;
-&lt;a href="https://github.com/Lissy93"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-Lissy93-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow Lissy93 on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/khulnasoft-lab"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-khulnasoft-lab-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow khulnasoft-lab on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
 &lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -4109,8 +4109,8 @@ You'll then be able to checkout a specific tag, with &lt;code&gt;git checkout 
       <title>Super Useful CSS Resources 🌈</title>
       <dc:creator>Alicia Sykes</dc:creator>
       <pubDate>Sat, 03 Dec 2022 18:00:23 +0000</pubDate>
-      <link>https://dev.to/lissy93/super-useful-css-resources-1ba3</link>
-      <guid>https://dev.to/lissy93/super-useful-css-resources-1ba3</guid>
+      <link>https://dev.to/khulnasoft-lab/super-useful-css-resources-1ba3</link>
+      <guid>https://dev.to/khulnasoft-lab/super-useful-css-resources-1ba3</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;A collection of 70 hand-picked, web-based tools which are actually useful.&lt;br&gt;
 Each will generate pure CSS without the need for JS or any external libraries.&lt;/p&gt;
@@ -5057,7 +5057,7 @@ See also, &lt;a href="https://colors.lol/"&gt;colors.lol&lt;/a&gt; for some over
 &lt;small&gt;If you like this kind of stuff&lt;/small&gt;,&lt;br&gt;&lt;small&gt;consider following for more :)&lt;/small&gt;
 &lt;/th&gt;
 &lt;th&gt;
-&lt;a href="https://github.com/Lissy93"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-Lissy93-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow Lissy93 on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/khulnasoft-lab"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-khulnasoft-lab-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow khulnasoft-lab on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
 &lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -5075,8 +5075,8 @@ See also, &lt;a href="https://colors.lol/"&gt;colors.lol&lt;/a&gt; for some over
       <title>Fun with console.log() 💿</title>
       <dc:creator>Alicia Sykes</dc:creator>
       <pubDate>Sun, 20 Nov 2022 21:50:01 +0000</pubDate>
-      <link>https://dev.to/lissy93/fun-with-consolelog-3i59</link>
-      <guid>https://dev.to/lissy93/fun-with-consolelog-3i59</guid>
+      <link>https://dev.to/khulnasoft-lab/fun-with-consolelog-3i59</link>
+      <guid>https://dev.to/khulnasoft-lab/fun-with-consolelog-3i59</guid>
       <description>&lt;p&gt;If you've ever developed a web app, you'll be familiar with &lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/Console/log"&gt;&lt;code&gt;console.log(...)&lt;/code&gt;&lt;/a&gt;, the method which prints data to the developer console; useful for debugging, logging and testing.&lt;/p&gt;
 
 &lt;p&gt;Run &lt;code&gt;console.log(console)&lt;/code&gt;, and you'll see that there's much more to the &lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/Console"&gt;&lt;code&gt;console&lt;/code&gt;&lt;/a&gt; object.&lt;br&gt;
@@ -5199,7 +5199,7 @@ Maybe change the font, style, background color, add some shadows and some curves
 
 &lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--WZkEV0By--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i.ibb.co/L6P26CL/console-styles-2.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--WZkEV0By--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i.ibb.co/L6P26CL/console-styles-2.png" title="Example output of console styles" alt="Screenshot showing an example using CSS in the console" width="800" height="258"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Here's something similar I'm using in a developer dashboard, the code is &lt;a href="https://github.com/Lissy93/dashy/blob/master/src/utils/CoolConsole.js"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here's something similar I'm using in a developer dashboard, the code is &lt;a href="https://github.com/khulnasoft-lab/dashy/blob/master/src/utils/CoolConsole.js"&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--L-UmEfJO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i.ibb.co/7jgSC8p/console-styles-3.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--L-UmEfJO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i.ibb.co/7jgSC8p/console-styles-3.png" title="Example output of console styles" alt="Screenshot showing an example using CSS in the console" width="800" height="525"&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -5517,7 +5517,7 @@ Counters will always start from 1. You can reset a counter at anytime with &lt;a
 &lt;small&gt;If you like this kind of stuff&lt;/small&gt;,&lt;br&gt;&lt;small&gt;consider following for more :)&lt;/small&gt;
 &lt;/th&gt;
 &lt;th&gt;
-&lt;a href="https://github.com/Lissy93"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-Lissy93-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow Lissy93 on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/khulnasoft-lab"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--FwDVd7CV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-khulnasoft-lab-3a3a3a%3Fstyle%3Dflat%26logo%3DGitHub%26logoColor%3Dwhite" alt="Follow khulnasoft-lab on GitHub" width="69" height="20"&gt;&lt;/a&gt;&lt;a href="https://twitter.com/Lissy_Sykes"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oLBd7wes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/-%40Lissy_Sykes-00acee%3Fstyle%3Dflat%26logo%3DTwitter%26logoColor%3Dwhite" alt="Follow Lissy_Sykes on Twitter" width="103" height="20"&gt;&lt;/a&gt;
 &lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -5535,8 +5535,8 @@ Counters will always start from 1. You can reset a counter at anytime with &lt;a
       <title>Browser Dev Tools: The Ultimate Guide 🔥</title>
       <dc:creator>Alicia Sykes</dc:creator>
       <pubDate>Mon, 14 Nov 2022 17:37:47 +0000</pubDate>
-      <link>https://dev.to/lissy93/awesome-dev-tool-tips-32oo</link>
-      <guid>https://dev.to/lissy93/awesome-dev-tool-tips-32oo</guid>
+      <link>https://dev.to/khulnasoft-lab/awesome-dev-tool-tips-32oo</link>
+      <guid>https://dev.to/khulnasoft-lab/awesome-dev-tool-tips-32oo</guid>
       <description>&lt;p&gt;
   &lt;strong&gt;Contents&lt;/strong&gt; (Click to expand) ↕️
   &lt;ul&gt;
