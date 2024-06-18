@@ -4,7 +4,76 @@
   <link type="text/html" rel="alternate" href="https://github.com/khulnasoft"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/khulnasoft.atom"/>
   <title>GitHub Public Timeline Feed</title>
-  <updated>2024-06-17T13:02:39Z</updated>
+  <updated>2024-06-18T13:18:34Z</updated>
+  <entry>
+    <id>tag:github.com,2008:ForkEvent/39400288752</id>
+    <published>2024-06-18T13:18:34Z</published>
+    <updated>2024-06-18T13:18:34Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/khulnasoft/CAPEv2"/>
+    <title type="html">khulnasoft forked khulnasoft/CAPEv2 from kevoreilly/CAPEv2</title>
+    <author>
+      <name>khulnasoft</name>
+      <email>info@khulnasoft.com</email>
+      <uri>https://github.com/khulnasoft</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:215366713,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39400288752,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;44b3c895-4db3-4218-92e3-57047af5c2bd&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;8b19d4675335dd205b103a89b0ad7ee17ab69097786fa96bc473ba96cd906c49&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- fork --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; data-hovercard-type=&quot;organization&quot; data-hovercard-url=&quot;/orgs/khulnasoft/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;/khulnasoft&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar&quot; src=&quot;https://avatars.githubusercontent.com/u/43526139?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@khulnasoft&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/khulnasoft&quot; rel=&quot;noreferrer&quot;&gt;khulnasoft&lt;/a&gt;
+          
+          forked
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; title=&quot;khulnasoft/CAPEv2&quot; href=&quot;/khulnasoft/CAPEv2&quot; rel=&quot;noreferrer&quot;&gt;khulnasoft/CAPEv2&lt;/a&gt;
+          from
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/kevoreilly/CAPEv2&quot; rel=&quot;noreferrer&quot;&gt;kevoreilly/CAPEv2&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-06-18T13:18:34Z&quot; data-view-component=&quot;true&quot;&gt;June 18, 2024 13:18&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+
+        &lt;div&gt;
+          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/kevoreilly/CAPEv2&quot; rel=&quot;noreferrer&quot;&gt;kevoreilly/CAPEv2&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 repo-description&quot;&gt;
+            &lt;p&gt;Malware Configuration And Payload Extraction&lt;/p&gt;
+          &lt;/div&gt;
+
+          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+              &lt;span class=&quot;d-inline-block color-fg-muted mr-3&quot;&gt;
+                &lt;span class=&quot;ml-0&quot;&gt;
+  &lt;span class=&quot;repo-language-color&quot; style=&quot;background-color: #3572A5&quot;&gt;&lt;/span&gt;
+  &lt;span itemprop=&quot;programmingLanguage&quot;&gt;Python&lt;/span&gt;
+&lt;/span&gt;
+
+              &lt;/span&gt;
+
+              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
+                  &lt;a class=&quot;Link--muted&quot; href=&quot;/kevoreilly/CAPEv2/stargazers&quot; rel=&quot;noreferrer&quot;&gt;
+                    &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-star mr-1&quot;&gt;
+    &lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;1.7k
+&lt;/a&gt;              &lt;/span&gt;
+
+              &lt;span class=&quot;mr-3&quot;&gt;
+                &lt;a class=&quot;Link--muted&quot; href=&quot;/kevoreilly/CAPEv2/issues?q=label%3A%22help+wanted%22+is%3Aopen+is%3Aissue&quot; rel=&quot;noreferrer&quot;&gt;1 issue needs help&lt;/a&gt;
+              &lt;/span&gt;
+
+              &lt;span&gt;Updated Jun 18&lt;/span&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:PublicEvent/39361959086</id>
     <published>2024-06-17T13:02:39Z</published>
@@ -17,7 +86,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;public js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:816270782,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PublicEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39361959086,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;1cb71d7f-a234-4734-b546-6619b6669bc3&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;518db503bb67e6d1b17640bd6e5af97b467f3eb09ebb1971b6b5f651e10890a5&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;public js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:816270782,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PublicEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39361959086,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;009c9cae-f323-4f79-8f0d-7c70ee615e1c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;17c5fee38a686013fd2a0dbe820461d394553a88504fe8c10628e50316a932f9&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- public --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -75,7 +144,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:816108244,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39347348472,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;58261b9a-f3b1-41c4-9ab7-af6d9a68a3ac&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;fbb65129f62fda0c41cc4eaf5c6f72fa7ee742f08c73b6c90d9d0782c525c6f8&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:816108244,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39347348472,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;c3efb7e7-6477-4362-8913-539e672030af&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;191089aa399c34f8efbe9ab4838a20966943adc35e92966bd5f93fa2ca7aef9c&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- member --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-items-baseline width-full&quot;&gt;
@@ -107,7 +176,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814793869,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39278581139,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;d0b11bce-21a3-4a83-bf1f-c4da3deebf15&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;584d952cfb3bcd7b477612805a9925b5afc1f2d42d9233e68c6d571f0e84a127&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814793869,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39278581139,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;d5a513c6-e16e-48ee-a6c6-0cfdf9354622&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;fee25a74d1533fddff031bb5b8555a1dd93639ee9a01247a6c23c026168d4882&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- member --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-items-baseline width-full&quot;&gt;
@@ -139,7 +208,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:69648386,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39278581055,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;f03edaf8-2c87-434a-a468-8fd84144ef3c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;b254d292b3415f45ea53e16fe00247279c4ff469344311d305bbfec662553e07&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:69648386,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39278581055,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;b126c251-c1d0-4940-b6bd-65cfd290de96&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;624d13a38091dd21d366c258f442cd040edbe75e5c25735256bd86e3d668c687&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -205,7 +274,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814610053,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39263625491,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;e5456e4c-57a1-48c5-9568-093b7e26b255&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;68d3675e6977bb05f7d8067876ba96a1e0685081d05e90fa446e7b1afab89d99&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814610053,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39263625491,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;5ff7b37d-8a6d-4571-9ac1-d3978132e5da&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;104c1c902258c8f4b88f27161f6a10869d5600e01feb219403aebdd0381a3bdf&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- member --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-items-baseline width-full&quot;&gt;
@@ -237,7 +306,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814595836,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39262471292,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;84ec7bc4-339f-4c62-995c-3780ecbd0b01&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;5739b4c5b8befb3009d16308ef9189822b395bf58fa758c7a2a568c0ac44a450&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814595836,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39262471292,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;5baefbde-33df-4a28-acf0-32d0c871e1ab&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;8830a3c2c3e87813ac8ce72da57628c83596a9428809e96e376c7cf66153499e&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- member --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-items-baseline width-full&quot;&gt;
@@ -269,7 +338,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814571304,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39260673206,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;5300c929-60eb-48f6-889d-7f2fd21c083e&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;a597c38d89414fff47c4b1a43bfb558851f4019f1a599223c1bf766632c7eb94&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814571304,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39260673206,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;ef711fea-3ada-4561-b5ed-d3ae29c6e0f4&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;c39d822c3d63b5c3cc97677727f2196c51c9dd5f334a8475863b76fc3972e555&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -322,7 +391,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814317742,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39242942257,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;0a3be869-8d68-4cef-99f4-477295edfd57&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;1735397435153abe7337cff40b9b8ddc413a03f15183d256d2c5c3c02ec236dc&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:814317742,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39242942257,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;e32359b7-80ef-4cca-81df-8848d087c7e7&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;d415ff3417aa25a17dace4a49ce64b919220ddc7288f2eb75440dafd1b6d4a2a&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -382,7 +451,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:813957133,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39215928366,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;031e8597-57b3-4c8c-8f25-cf41f1397e31&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;864e74cb535f5902e343115819e88377dfbb7cfbdd124806d8df0fb99c9721fb&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:813957133,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39215928366,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;f6c27d31-9bc9-4a2c-ac31-257636eb3274&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;2d391bbbe57d57a7be7530a4aaaf752655fd7fc242c66329f91f5745bada5109&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- member --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-items-baseline width-full&quot;&gt;
@@ -414,7 +483,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:813814992,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39206805945,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;dea04045-bf64-42fd-947a-05c812460d33&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;5ecc883ac78207226204220ae5909f666e77807de770ee6f8b68f562a32857a5&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;member_add js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:813814992,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;MemberEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39206805945,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;034e9e68-a692-4b35-9e8c-a7a8b0e60d91&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;897b8db746244b6eaeb32f6c364e4312c94da980edc5a0ac620a57fa822bad5f&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- member --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-items-baseline width-full&quot;&gt;
@@ -446,7 +515,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:379547795,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39202625588,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;9b714c18-a67f-48af-b44d-ccccc2d0f8f4&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;093c8df491aa64cecba6fdd458aa4eac4cc0430ed998db64f851962f7d238df7&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:379547795,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39202625588,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;1ceee579-94bd-4393-b4cd-9ec327f3bcf5&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;4651e3503457dd796d972c76d33275d010447481c860057c28711468e267357a&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -492,7 +561,7 @@
 &lt;/a&gt;              &lt;/span&gt;
 
 
-              &lt;span&gt;Updated Jun 17&lt;/span&gt;
+              &lt;span&gt;Updated Jun 18&lt;/span&gt;
           &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -512,7 +581,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:680303902,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39079722800,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;ce1eeb1d-c637-4ea4-8f66-dda8f94b8d3e&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;3540ef453728a5a534dbab29559248a7915dbdee124758b3f04cd6638967909a&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:680303902,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:39079722800,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;a54ef65d-8ded-49be-aa9a-d9f1714a1d48&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;3de3e3ccff4d47075e004d7e665a8e0c9add8de12b067eca37a462bd75781962&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -547,7 +616,7 @@
                   &lt;a class=&quot;Link--muted&quot; href=&quot;/github/ruleset-recipes/stargazers&quot; rel=&quot;noreferrer&quot;&gt;
                     &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-star mr-1&quot;&gt;
     &lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;
-&lt;/svg&gt;78
+&lt;/svg&gt;79
 &lt;/a&gt;              &lt;/span&gt;
 
 
@@ -571,7 +640,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:242535664,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38872328079,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;ba0f198d-db80-4df8-97f0-252fdcfe4a1c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;da5c42f3477ab2bfc47f2d28dc302953df027af4aee89621915907c3a3349382&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:242535664,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38872328079,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;74f1d660-66e6-4448-8227-bf2d0bd264ab&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;68d98eb7cfbc83ae334df4fe6a31d9daf7291e041e5a1e1783096e087fc2444a&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -613,7 +682,7 @@
                   &lt;a class=&quot;Link--muted&quot; href=&quot;/DelSkayn/rquickjs/stargazers&quot; rel=&quot;noreferrer&quot;&gt;
                     &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-star mr-1&quot;&gt;
     &lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;
-&lt;/svg&gt;415
+&lt;/svg&gt;416
 &lt;/a&gt;              &lt;/span&gt;
 
 
@@ -637,7 +706,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:180426303,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38715301678,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;3a0696f0-d2d2-46a2-9020-c8c6d6c97178&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;a10952e58a4342ce8bc853ec56d48e74671cd6b5e894e49924c4d77546d443a2&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:180426303,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38715301678,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;f542c7bc-d7a7-4ee9-addc-ea3cc510d334&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;02b2f2e2f49999378ea43f6c2902162c7f7113e5ca86f2af4d1a653ce1fa6542&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -703,7 +772,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:805926534,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38711296926,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;bc671254-0152-4bda-bf87-8a01073f7b78&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;e7a152b7f98b074c514e50407ace0bac12aca04e2ff995ff297e816dd8839844&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:805926534,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38711296926,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;e7a77937-3a9f-4fee-b098-61426fa1411c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;628020dc4b8e4735ebd6fb00f891e671749573def21c67cba52ef4bcb5c4c3e3&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -769,7 +838,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:107710074,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38709087447,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;feef639c-d02a-4b97-8f9e-500af3938871&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;cb391ed5151e4896434754251783a6389d8be494f88d450a6709af8d7d69768e&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:107710074,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38709087447,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;d268167b-b5b3-45b6-be5b-4f4f7940fa43&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;623b7d4a65e45175ef0587aa9c50148cc6578c2d84c59918361337c463166798&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -835,7 +904,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:107710074,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38709080548,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;e4ffd750-ff25-4f66-b986-7bab72b87f34&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;ba3a2258aa4432e72d5a8da02222ceceebce4caf4fdaa051859d5c8efb1d8ffe&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:107710074,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38709080548,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;36907502-10c9-4eea-83e4-1574ad2cff2e&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;eb4ba470e1fe138c2740de3c3e26d9e4b42845b1aa11c104be3b5aab3bf82bee&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -901,7 +970,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:107710074,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38708799185,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;ab8175bb-fbec-408c-87d8-ae27cfb094de&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;a97cf057dfa9afa01eed8ec30e3189e802b8fb77b290d62cd209a57c7ff2f973&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:107710074,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38708799185,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;a715b8c9-2a55-4383-aa60-9a6375dfc3e5&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;094a07341279915e8692301e3e3756ee9c20a4ca2d1a144ea954bddd919db0c8&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -967,7 +1036,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:52855516,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38645540236,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;04969dce-91ff-4c7b-97ba-2891ba844eaa&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;946706795810f85cfa8e8cf2dff03090996d3ad87a2f7f79677c6ee27488235b&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:52855516,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38645540236,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;860dbefc-48a1-41ce-9501-69c0c614a0a2&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;3bc6666d80940b1aba72010abe62f57b72abf2ce8d9d54cbf5eb79947bca10dc&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1016,7 +1085,7 @@
                 &lt;a class=&quot;Link--muted&quot; href=&quot;/Homebrew/homebrew-core/issues?q=label%3A%22help+wanted%22+is%3Aopen+is%3Aissue&quot; rel=&quot;noreferrer&quot;&gt;2 issues need help&lt;/a&gt;
               &lt;/span&gt;
 
-              &lt;span&gt;Updated Jun 17&lt;/span&gt;
+              &lt;span&gt;Updated Jun 18&lt;/span&gt;
           &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -1036,7 +1105,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:193558319,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38576625500,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;68e15a00-1b00-4638-9d79-153be6e577b3&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;f59452e5605595fbe5efe23db48cbfe7fcaf47b50e4d2520d2ceb4dd46b6c215&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:193558319,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38576625500,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;b8e0ea01-e6db-4225-a0ab-d561153c82b5&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;2b3c800023490cada81af2220ea5bd2d691a10ea1c0c0939923be67a65d8f60c&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1102,7 +1171,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:799750152,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38306550296,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;e62701da-5a11-48a8-988e-5c3035ff6dce&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;3394afe5c259c231a199c06f1806e06d1c613953bd584aa76496883da9462cb7&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:799750152,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38306550296,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;20d58d42-a959-49af-a73a-08b87d5dc70e&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;596c4b4923c7695b1e9a4bd2ab88f7cadc32bd3c78d4607cee81b1ebdf5303b6&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1155,7 +1224,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:92946971,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38295021519,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;eac32db1-32fc-4d3d-9c1d-b0f5eca8ae84&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;fae15d44755ceb30b78155b4f957ca61af743f4a59829918586c86a73aac6f16&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:92946971,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38295021519,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;5517b44b-87b2-49a1-a6d8-79d3ebe54681&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;de8cbec644420e2a59fd7fa4ae917044acf707340177d1e34b87d505b833097b&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1224,7 +1293,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:629044927,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38294950054,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;a3d58b1a-65e1-424d-814d-170a612943ec&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;65637023601f90590ef644a1aff4d221157e9bccf9825fdada537d147bf0905b&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:629044927,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38294950054,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;14b658c2-9f78-4b98-a3e2-362ce67ceea5&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;0903ecbb134b9ca0e4669ca6f7331acb1f79102080c32bd2040940b4df87f376&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1290,7 +1359,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:200896124,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38292426767,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;d2967410-d7d5-4c68-9d43-6820c4918be7&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;6d140781417d9c839d17e66df7d1c3d5a3b0c06a9542df273fa2e4af394116f6&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:200896124,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:38292426767,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;a2088732-1628-4e40-ba2d-c60423d08175&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;bed6f19807023fefc4b9fc4385569e0cf163fcf46de996bac4303ec3ce733829&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1359,7 +1428,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:400215964,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37997241298,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;a2b7c407-bb4d-4cc7-843d-d2bcd70128ea&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;f0627f618be3aaee4432a819044b270af0fb3ef4edbaad8d6a36f8f7198710da&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:400215964,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37997241298,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;6c2b4483-27d0-4377-9a02-88c713463791&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;ac17b0a906199c997daba411bf74452662ea81c41c4e8815ae29512bcbd52b0b&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1408,7 +1477,7 @@
                 &lt;a class=&quot;Link--muted&quot; href=&quot;/novuhq/novu/issues?q=label%3A%22help+wanted%22+is%3Aopen+is%3Aissue&quot; rel=&quot;noreferrer&quot;&gt;25 issues need help&lt;/a&gt;
               &lt;/span&gt;
 
-              &lt;span&gt;Updated Jun 17&lt;/span&gt;
+              &lt;span&gt;Updated Jun 18&lt;/span&gt;
           &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -1428,7 +1497,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:35969061,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37827477516,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;16217931-62ff-4628-ad56-af0bbff3c945&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;0a31a449d8b01c4014ed42b017f3d9420e9d23fec60fb98baaba6780f03213ce&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:35969061,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37827477516,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;7ff5bd9f-851d-4f5e-b8f1-edb33bd1723c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;ef2e781f9089ca6b8c52470e8e079e93dad449e0aa0738af1244fefb22b1f886&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1494,7 +1563,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:658928958,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37780205759,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;19ad2504-aed7-4840-9784-8fb250f71044&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;fd7355dbbfc535c21e2d76ed6601f64b70615f999e5a54aaea601b02a92ee4b3&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:658928958,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37780205759,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;504145a5-16c4-4e37-9cb8-2388df9ad9d0&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;3fb913816a156e45cd7aa809fbb1fed9a556cc300fbb1c69a120d58066848e6e&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1536,14 +1605,14 @@
                   &lt;a class=&quot;Link--muted&quot; href=&quot;/ollama/ollama/stargazers&quot; rel=&quot;noreferrer&quot;&gt;
                     &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-star mr-1&quot;&gt;
     &lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;
-&lt;/svg&gt;73.9k
+&lt;/svg&gt;74.2k
 &lt;/a&gt;              &lt;/span&gt;
 
               &lt;span class=&quot;mr-3&quot;&gt;
                 &lt;a class=&quot;Link--muted&quot; href=&quot;/ollama/ollama/issues?q=label%3A%22help+wanted%22+is%3Aopen+is%3Aissue&quot; rel=&quot;noreferrer&quot;&gt;3 issues need help&lt;/a&gt;
               &lt;/span&gt;
 
-              &lt;span&gt;Updated Jun 17&lt;/span&gt;
+              &lt;span&gt;Updated Jun 18&lt;/span&gt;
           &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -1563,7 +1632,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:7582008,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37638928212,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;4ea765c2-cb4e-40d8-a578-8ef82a42bb35&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;b0e711e24b598f5a5d4a5579d814643bd3f92e5e3a024a11298e92c043f713dd&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:7582008,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37638928212,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;092f134a-4ba3-49b5-8c3f-8bf30949c06b&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;53ffe96036cabfe298beb494995d4361e91a258fa33a6e1ef11d793d4fdfb4c0&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1629,7 +1698,7 @@
       <uri>https://github.com/khulnasoft</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:32193707,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37638625709,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;7e66acef-4c91-41ff-ae3b-fcb9e0117597&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;6c72f32c38525afa3b5e4820380fc28a0b1156ead12816d1094ef543a09a99b7&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:32193707,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37638625709,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;872fbda2-a6a5-49ed-92ba-65d84f85e998&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;9dcbc46d094b1c21c1d7e661f12702364e9d090083f1c0d9cb4cd1ca2c1be2aa&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1676,66 +1745,6 @@
 
 
               &lt;span&gt;Updated Mar 18&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:ForkEvent/37423790976</id>
-    <published>2024-04-13T01:26:29Z</published>
-    <updated>2024-04-13T01:26:29Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/khulnasoft/uvicorn-gunicorn-docker"/>
-    <title type="html">khulnasoft forked khulnasoft/uvicorn-gunicorn-docker from khulnasoft-lab/uvicorn-gunicorn-docker</title>
-    <author>
-      <name>khulnasoft</name>
-      <email>info@khulnasoft.com</email>
-      <uri>https://github.com/khulnasoft</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43526139?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:785946712,&amp;quot;actor_id&amp;quot;:43526139,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:37423790976,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;d721706a-930d-40e3-b665-9dd3903a76e7&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/khulnasoft.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;7689e8010d1f33eeb5f6c51fe803db8083cc200ceeae51350d37a897a0cafad2&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- fork --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-        &lt;div class=&quot;color-fg-muted&quot;&gt;
-          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; data-hovercard-type=&quot;organization&quot; data-hovercard-url=&quot;/orgs/khulnasoft/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;/khulnasoft&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar&quot; src=&quot;https://avatars.githubusercontent.com/u/43526139?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@khulnasoft&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/khulnasoft&quot; rel=&quot;noreferrer&quot;&gt;khulnasoft&lt;/a&gt;
-          
-          forked
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; title=&quot;khulnasoft/uvicorn-gunicorn-docker&quot; href=&quot;/khulnasoft/uvicorn-gunicorn-docker&quot; rel=&quot;noreferrer&quot;&gt;khulnasoft/uvicorn-gunicorn-docker&lt;/a&gt;
-          from
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/khulnasoft-lab/uvicorn-gunicorn-docker&quot; rel=&quot;noreferrer&quot;&gt;khulnasoft-lab/uvicorn-gunicorn-docker&lt;/a&gt;
-          &lt;span&gt;
-            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-04-13T01:26:29Z&quot; data-view-component=&quot;true&quot;&gt;April 13, 2024 01:26&lt;/relative-time&gt;
-          &lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/khulnasoft-lab/uvicorn-gunicorn-docker&quot; rel=&quot;noreferrer&quot;&gt;khulnasoft-lab/uvicorn-gunicorn-docker&lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 repo-description&quot;&gt;
-            &lt;p&gt;&lt;/p&gt;
-          &lt;/div&gt;
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span class=&quot;d-inline-block color-fg-muted mr-3&quot;&gt;
-                &lt;span class=&quot;ml-0&quot;&gt;
-  &lt;span class=&quot;repo-language-color&quot; style=&quot;background-color: #3572A5&quot;&gt;&lt;/span&gt;
-  &lt;span itemprop=&quot;programmingLanguage&quot;&gt;Python&lt;/span&gt;
-&lt;/span&gt;
-
-              &lt;/span&gt;
-
-
-
-              &lt;span&gt;Updated Jun 14&lt;/span&gt;
           &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
