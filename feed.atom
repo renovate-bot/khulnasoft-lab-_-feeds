@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khulnasoft-lab.github.io/feeds/index.html</id>
     <title>khulnasoft-lab::feed</title>
-    <updated>2024-07-30T23:35:52.780Z</updated>
+    <updated>2024-07-31T23:36:33.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://khulnasoft-lab.github.io/feeds/index.html"/>
     <link rel="self" href="https://khulnasoft-lab.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[khulnasoft forked khulnasoft/agent-protocol from AI-Engineer-Foundation/agent-protocol]]></title>
+        <id>https://github.com/khulnasoft/agent-protocol</id>
+        <link href="https://github.com/khulnasoft/agent-protocol"/>
+        <updated>2024-07-31T04:33:28.000Z</updated>
+        <summary type="html"><![CDATA[khulnasoft
+          
+          forked
+          khulnasoft/agent-protocol
+          from
+          AI-Engineer-Foundation/agent-protocol
+          
+            · July 31, 2024 04:33
+          
+        
+AI-Engineer-Foundation/agent-protocol
+          
+Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
+
+  Python
+
+
+              
+
+              
+                  
+                    
+    
+
+886
+              
+
+
+              Updated Jun 11]]></summary>
+        <author>
+            <name>GitHub Public Timeline Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[khulnasoft forked khulnasoft/litellm from BerriAI/litellm]]></title>
         <id>https://github.com/khulnasoft/litellm</id>
