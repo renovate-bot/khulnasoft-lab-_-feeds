@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khulnasoft-lab.github.io/feeds/index.html</id>
     <title>khulnasoft-lab::feed</title>
-    <updated>2024-09-21T23:35:36.366Z</updated>
+    <updated>2024-09-22T23:36:48.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://khulnasoft-lab.github.io/feeds/index.html"/>
     <link rel="self" href="https://khulnasoft-lab.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[khulnasoft forked khulnasoft/trivy from aquasecurity/trivy]]></title>
+        <id>https://github.com/khulnasoft/trivy</id>
+        <link href="https://github.com/khulnasoft/trivy"/>
+        <updated>2024-09-22T14:46:29.000Z</updated>
+        <summary type="html"><![CDATA[khulnasoft
+          
+          forked
+          khulnasoft/trivy
+          from
+          aquasecurity/trivy
+          
+            · September 22, 2024 14:46
+          
+        
+aquasecurity/trivy
+          
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+  Go
+
+
+              
+
+              
+                  
+                    
+    
+
+22.9k
+              
+
+              
+                19 issues need help
+              
+
+              Updated Sep 20]]></summary>
+        <author>
+            <name>GitHub Public Timeline Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[khulnasoft added FortiShield to khulnasoft/eval]]></title>
         <id>https://github.com/khulnasoft/eval</id>
