@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khulnasoft-lab.github.io/feeds/index.html</id>
     <title>khulnasoft-lab::feed</title>
-    <updated>2025-03-05T23:36:12.885Z</updated>
+    <updated>2025-03-06T23:35:55.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://khulnasoft-lab.github.io/feeds/index.html"/>
     <link rel="self" href="https://khulnasoft-lab.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[khulnasoft forked khulnasoft/cert-manager from cert-manager/cert-manager]]></title>
+        <id>https://github.com/khulnasoft/cert-manager</id>
+        <link href="https://github.com/khulnasoft/cert-manager"/>
+        <updated>2025-03-06T01:51:02.000Z</updated>
+        <summary type="html"><![CDATA[khulnasoft
+          
+          forked
+          khulnasoft/cert-manager
+          from
+          cert-manager/cert-manager
+          
+            · March 6, 2025 01:51
+          
+        
+cert-manager/cert-manager
+          
+Automatically provision and manage TLS certificates in Kubernetes
+
+  Go
+
+
+              
+
+              
+                  
+                    
+    
+
+12.5k
+              
+
+              
+                9 issues need help
+              
+
+              Updated Mar 5]]></summary>
+        <author>
+            <name>GitHub Public Timeline Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[khulnasoft forked khulnasoft/wgpu from gfx-rs/wgpu]]></title>
         <id>https://github.com/khulnasoft/wgpu</id>
