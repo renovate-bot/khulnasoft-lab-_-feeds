@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khulnasoft-lab.github.io/feeds/index.html</id>
     <title>khulnasoft-lab::feed</title>
-    <updated>2025-03-18T23:57:06.005Z</updated>
+    <updated>2025-03-19T23:37:30.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://khulnasoft-lab.github.io/feeds/index.html"/>
     <link rel="self" href="https://khulnasoft-lab.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[khulnasoft forked khulnasoft/yaml from ghodss/yaml]]></title>
+        <id>https://github.com/khulnasoft/yaml</id>
+        <link href="https://github.com/khulnasoft/yaml"/>
+        <updated>2025-03-18T22:14:24.000Z</updated>
+        <summary type="html"><![CDATA[khulnasoft
+          
+          forked
+          khulnasoft/yaml
+          from
+          ghodss/yaml
+          
+            · March 18, 2025 22:14
+          
+        
+ghodss/yaml
+          
+A better way to marshal and unmarshal YAML in Golang
+
+  Go
+
+
+              
+
+              
+                  
+                    
+    
+
+1k
+              
+
+
+              Updated May 26, 2023]]></summary>
+        <author>
+            <name>GitHub Public Timeline Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[khulnasoft forked khulnasoft/committed from crate-ci/committed]]></title>
         <id>https://github.com/khulnasoft/committed</id>
